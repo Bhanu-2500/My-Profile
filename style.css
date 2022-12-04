@@ -5,8 +5,8 @@
     display: inline;
     width: fit-content;
     position: absolute;
-    left: 500px;
-    bottom: 280px;
+    left: 350px;
+    bottom: 150px;
     font-family: 'Dancing Script', cursive;
     font-size: 2em;
     z-index: 3;
@@ -14,20 +14,21 @@
 
 #intro-2{
     display: inline;
-    width: fit-content;
+    width: 1000px;
     position: absolute;
-    right:100px;
-    top: 100px;
+    left: 25%;
+    top: 50px;
     color:#C69749;
     z-index: 3;
+    text-align: center;
 }
 
 #top-con-paragraph{
     display: block;
     width: 400px;
     position: absolute;
-    top: 340px;
-    left: 500px;
+    top: 250px;
+    left: 350px;
     font-family: 'Lora', serif;
     color: rgb(213, 193, 167);
     z-index: 5;
@@ -76,7 +77,7 @@
 #profile-img{
     width: 170px;
     border-radius: 100%;
-    margin: 30px 20px 10px ;
+    margin: 10px 20px 10px ;
     border: 2px solid;
     border-color:black;
 }
